@@ -4,19 +4,13 @@
         <meta charset="utf-8">
         <title>Challenge: Seasonal ids</title>
         <style>
-           h1 {
-            color: rgb(0, 232, 26);
-           }
-
+          
            h2 {
             color: rgb(232, 0, 0)
            }
 
-           #He_likes_to_stay_in_and_cuddle{
-            background_color: blue 
-           }
-           #hes_a_happy_snowman{
-            background-color: brown;
+           body{
+            background-color: rgb(5, 186, 231)
            }
         </style>
     </head>
