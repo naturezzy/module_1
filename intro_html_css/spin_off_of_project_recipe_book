@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.">
+    <title>My Recipe Book</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .recipe {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow:  2px 5px rgba(, , , .1);
+            margin: 20px ;
+            padding: 15px;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        h3 {
+            color: #555;
+        }
+        ul {
+            margin: 10px ;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>My Recipe Book</h1>
+
+    <p>Jump to sections:
+        <a href="#ingredient">ingredient for spaghetti</a>,  <br>
+    </p>
+
+
+    <p>Jump to sections:
+        <a href="#General_instructions">General instruction<br>
+    </p>
+    
+
+<div class="recipe">
+    <h2>Spaghetti</h2>
+    <h3>Ingredients:</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>salt</th>
+                <th>Maggi</th>
+                <th>pepper</th>
+            </tr>
+        </thead>
+        <tbody>
+            <td>1 spoon</td>
+            <td>16 cubes</td>
+            <td>10 pieces</td>
+        </tbody>
+        
+        </table>
+    
+    
+    
+    
+    <h3>Ingredients:</h3>
+    <ul>
+        <li>200g spaghetti</li>
+        <li>100g pancetta</li>
+        <li>50g pecorino cheese</li>
+        <li>2 large eggs</li>
+        <li>Black pepper</li>
+        <li>Salt</li>
+        <li>Olive oil</li>
+    </ul>
+    <h3>General instructions:</h3>
+    
+    <ol>
+        <li>Cook the spaghetti in salted boiling water until al dente.</li>
+        <li>In a pan, cook the pancetta in a little olive oil until crispy.</li>
+        <li>In a bowl, whisk together eggs and grated pecorino cheese.</li>
+        <li>Drain the spaghetti and add it to the pan with pancetta.</li>
+        <li>Remove from heat and quickly stir in the egg mixture to create a creamy sauce.</li>
+        <li>Season with black <br>
+            <a href="https://www.ubuy.com.lk/en/product/2MCRYLEU"> read more about all recipes above</a> 
