@@ -37,12 +37,12 @@
 
 <h1>My Recipe Book</h1>
 
-    <p>Jump to sections:
-        <a href="#ingredient">ingredient for spaghetti</a>,  <br>
+    <p>Jump to:
+        <a href="spaghetti">spaghetti</a>,  <br>
     </p>
 
 
-    <p>Jump to sections:
+    <p>Jump to:
         <a href="#General_instructions">General instruction<br>
     </p>
     
