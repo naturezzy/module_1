@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.">
+    <title>Wedding Invite</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #ca0568ad;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .invitation {
+            background-color: rgb(236, 222, 22);
+            border-radius: 10px;
+            padding: 100px;
+            margin: 20px auto;
+            width: 700%;
+            max-width: 300px;
+            box-shadow:  4px 20px rgba(, , , .1);
+        }
+        h1, h2 {
+            margin:10px ;
+        }
+        h1 {
+            font-size: 2.0 em;
+            color: #0e0d0dc5;
+        }
+        h2 {
+            font-size: 1.5em;
+            margin-top: 10px;
+            color: #555;
+        }
+        p {
+            font-size: 1em;
+            line-height: 1.5;
+            margin: 20px ;
+        }
+        .date, .location, .rsvp {
+            font-size: 1.2em;
+            margin: 15px ;
+        
+        }
+        .rsvp a {
+            text-decoration: none;
+            color: #fff;
+            background-color: #e91e63;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color .3s;
+        }
+        .rsvp a:hover {
+            background-color: #d81b60;
+        }
+        .date{
+            color: #d81b60;
+        }
+        .location{
+            color: #541bd8;
+        }
+        .time{
+            color: #d81b60;
+            
+        }
+    </style>
+</head>
+<body>
+<img id="<img class="pic" src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" alt="Photo of rocky ocean beach in Hawaii">
+"
+<div class="invitation">
+    <h1>Congratulation on your Wedding fatiha!</h1>
+    <h2>ABDULLAHI<br> &<br> AZEEZAH</h2>
+    <p class="date">Date: Saturday, November 15, 2024</p>
+    <p class="location">Location: New G.R.A, Minna, Niger, State
+    <p class="time"> Time: 2:00pm
+    <p class="rvsp"> R.S.V.P <br> 08039200893, 08032456783, 08077112463
+    <p><span class="date
+    
