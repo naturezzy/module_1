@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<style>
+    body {
+        margin:10px;
+        padding:10px;
+        font-family: arial, sans-serif;
+        background: blue;
+    }
+</style>
+<body>
+    <h1>Click the button to blue the background color</h1>
+<button id="bluebutton">blue background</button>
+<script>
+    document.getElementById('BlueButton').addEventListener('click', function() {
+        document.body.classList.toggle('blue');
+    });
+    }
+</script>
+</body>
+</html>
