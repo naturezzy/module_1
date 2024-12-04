@@ -5,11 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<style>
+body {
+    margin:10px;
+    padding:0px;
+    font-family: arial, sans-serif;
+
+}
+</style>
+    <h1>MY LIST OF CARS</h1>
 <body>
-    <h1>Car list</h1>
+   
     <script>
-        var carList=('toyota','honda', 'mazda', 'mitsubishi', 'tesla', 'lexus')
         
+        let cars = ['toyota','honda', 'mazda', 'mitsubishi', 'tesla', 'lexus']; 
+        //log the first item
+        console.log("first item:" , cars[0]);
+        cars [cars.length]
+        // add an item mercedes-benz
+        cars.push("mercedes-benz")
+        // log the last item
+        console.log("Last item:" ,
+        cars[cars.length - 1]);
+        for (let i = 0; i < cars.length; i++) {
+        console.log(cars[i] + "");
+      }
     </script>
 </body>
 </html>

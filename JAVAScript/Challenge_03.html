@@ -7,19 +7,25 @@
 <style>
     body {
         margin:10px;
-        padding:10px;
+        padding:0px;
         font-family: arial, sans-serif;
-        background: blue;
+        
+       
     }
 </style>
 <body>
-    <h1>Click the button to blue the background color</h1>
-<button id="bluebutton">blue background</button>
+    <h1>MAGIC BUTTON</h1>
+<p id="output"> 
+Click this
+<button type="button" onclick="color()">button</button> to change background color BLUE
+</p>
 <script>
-    document.getElementById('BlueButton').addEventListener('click', function() {
-        document.body.classList.toggle('blue');
-    });
-    }
+    function color() {
+    let output = document.getElementById('output'); document.body.style.background = "blue";
+}
+
+</script>
+    
 </script>
 </body>
 </html>
